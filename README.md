@@ -1,2 +1,7 @@
 # Data-Mining-Project-2---Classification---NBA-Draft
-This is my second project for my data mining course, where we are using classification ML models to classify some sort of data into categories.
+
+All NCAA college basketball players dream of being drafted into the National Basketball Association (the NBA), and many dream of being a Top 10 pick. However, there are about 10,000 D1 college basketball players, which does not count international, D2, D3, or any other players that are all fighting for the chance to be drafted into the NBA. So what sets the Top 10 apart from the rest of these thousands of players? This project will look at player statistics, advanced and base stats, and see what factors play the biggest part in players becoming a Top 10 draft pick in the NBA. For the sake of this project, international and non-D1 athletes will not be taken into consideration and the models will be trained and tested on data that only includes D1 players. 
+
+This link contains my data: https://www.kaggle.com/datasets/viniciusrabello/nba-past-drafts-ncaa-stats?resource=download
+
+This dataset includes three tables, an NBA draft table, an NCAA advanced stats table, and a base NCAA stats table. The NBA draft table contains the player name, the draft year, the draft position, and what round they are drafted in. The advanced stats table has the player's name, their class, and then looks at their share of points, rebounds, assists, and a collection of other stats that take an in-depth view of how the player affects his team's performance. The base stats table looks at the actual player stats like points, rebounds, assists, shooting percentages, and other counting stats.
